@@ -49,7 +49,10 @@ En az 3 puan toplayarak oyunu kazanın! Skorunuz düşükse oyunu tekrar deneyin
 Projeyle ilgili geri bildirim, öneri veya hata bildirimleri için benimle iletişime geçebilirsiniz:
 
 GitHub: https://github.com/elfgk
+
 LinkedIn: https://www.linkedin.com/in/elfgk/
+
 Kaggle: https://www.kaggle.com/elfgkk
+
 StackOverflow: https://stackoverflow.com/users/27559679/elfgk
 
