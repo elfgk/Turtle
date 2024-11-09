@@ -31,19 +31,19 @@ Oyunu kapatmak için Q tuşuna basın.
 
 **📄 Kod Özeti**
 
-Oyun Ekranı: Turtle ekranı 700x700 boyutlarında ayarlanır ve arka plan rengi açık mavi yapılır.
+-Oyun Ekranı: Turtle ekranı 700x700 boyutlarında ayarlanır ve arka plan rengi açık mavi yapılır.
 
-Hedef Kaplumbağa: Siyah dış hat ve pembe iç renkli olarak ayarlanır, ekranda rastgele konumlara gider.
+-Hedef Kaplumbağa: Siyah dış hat ve pembe iç renkli olarak ayarlanır, ekranda rastgele konumlara gider.
 
-Süre ve Skor: Ekranda kalan süre ve skor anlık olarak gösterilir.
+-Süre ve Skor: Ekranda kalan süre ve skor anlık olarak gösterilir.
 
-Oyun Döngüsü: Süre dolana kadar kaplumbağa ekranda rastgele konumlarda belirir. Tıklamalara bağlı olarak skor artar.
+-Oyun Döngüsü: Süre dolana kadar kaplumbağa ekranda rastgele konumlarda belirir. Tıklamalara bağlı olarak skor artar.
 
-Oyun Sonu: Süre bitiminde kullanıcıya kazandığı veya kaybettiği mesaj olarak bildirilir.
+-Oyun Sonu: Süre bitiminde kullanıcıya kazandığı veya kaybettiği mesaj olarak bildirilir.
 
 **🏆 Hedef**
 
-En az 3 puan toplayarak oyunu kazanın! Skorunuz düşükse oyunu tekrar deneyin ve becerinizi geliştirin!
+-En az 3 puan toplayarak oyunu kazanın! Skorunuz düşükse oyunu tekrar deneyin ve becerinizi geliştirin!
 
 
 
