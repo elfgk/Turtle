@@ -56,9 +56,5 @@ Oyunu kapatmak için Q tuşuna basın.
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-9C30FF?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/elfgk)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/elfgkk)
 
-LinkedIn: https://www.linkedin.com/in/elfgk/
 
-Kaggle: https://www.kaggle.com/elfgkk
-
-StackOverflow: https://stackoverflow.com/users/27559679/elfgk
 
